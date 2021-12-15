@@ -7,4 +7,4 @@ https://www.freecodecamp.org/
 https://github.com/malenaa123
 
 - Codigo en la nube
-https://github.com/malenaa123
+https://replit.com/@MalenaJUAREZ/StaticServer#public/index.html
